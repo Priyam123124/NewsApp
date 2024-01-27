@@ -1,0 +1,30 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+body{
+    background-color: rgb(233, 233, 233);
+}
+.buttton{
+    display: flex;
+}
+.margin1{
+    margin-top: 4px;
+    margin-left: 1vw;
+
+    border: none;
+    background-color: rgb(4, 44, 103);;
+    color: white;
+    border-radius: 2px;
+    height: 24px
+}
+.margin2{
+    margin-left: 88vw;
+    margin-top: 4px;
+    border: none;
+    background-color: rgb(4, 44, 103);;
+    color: white;
+    border-radius: 2px;
+    height: 24px;
+}
